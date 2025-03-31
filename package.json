@@ -1,9 +1,10 @@
 {
-  "name": "alanagoyal",
+  "name": "applenotes",
   "version": "0.1.0",
   "private": true,
+  "packageManager": "pnpm@8.15.4",
   "scripts": {
-    "dev": "next dev --port 3001 --hostname localhost",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
